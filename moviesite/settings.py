@@ -30,7 +30,7 @@ ALLOWED_HOSTS = ["127.0.0.1", ".onrender.com"] # modifique esta linha
 
 CSRF_TRUSTED_ORIGINS = ["https://*.onrender.com/"] # adicione esta linha
 
-ALLOWED_HOSTS = []
+
 
 
 # Application definition
